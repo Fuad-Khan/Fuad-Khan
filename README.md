@@ -1,5 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Fuad-Khan/Fuad-Khan/main/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.webp)
 <h1 align="center">Hi 👋, I'm Fuad Khan</h1>
+<img align="right" alt="coding" width="400" src="https://github.com/Fuad-Khan/Fuad-Khan/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuad-khan&label=Profile%20views&color=0e75b6&style=flat" alt="fuad-khan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuad-khan" alt="fuad-khan" /></a> </p>
@@ -21,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuad-khan&show_icons=true&locale=en" alt="fuad-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad-khan&" alt="fuad-khan" /></p>
-
