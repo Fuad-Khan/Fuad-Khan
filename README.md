@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Fuad-Khan/Fuad-Khan/main/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.webp)
 <h1 align="center">Hi 👋, I'm Fuad Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuad-khan&label=Profile%20views&color=0e75b6&style=flat" alt="fuad-khan" /> </p>
 
