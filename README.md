@@ -1,4 +1,4 @@
-![logo]([https://raw.githubusercontent.com/Fuad-Khan/Fuad-Khan/main/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.webp])(https://github.com/Fuad-Khan/Fuad-Khan/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif))
+![logo]((https://github.com/Fuad-Khan/Fuad-Khan/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif))
 <h1 align="center">Hi 👋, I'm Fuad Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuad-khan&label=Profile%20views&color=0e75b6&style=flat" alt="fuad-khan" /> </p>
 
