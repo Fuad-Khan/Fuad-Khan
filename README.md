@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuad-khan" alt="fuad-khan" /></a> </p>
 
-- 📫 How to reach me **mk_fuad@yahoo.com**
+- 📫 How to reach me: **mk_fuad@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"
