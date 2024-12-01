@@ -83,7 +83,9 @@
 #### 📁 Other Notable Projects  
 <p align="center">
   <a href="https://github.com/Fuad-Khan/portfolio-website">🖥️ **Portfolio Website**</a> — A sleek, personal website showcasing skills and achievements.  
+  <br>
   <a href="https://github.com/Fuad-Khan/student-management-system">🎓 **Student Management System**</a> — A web-based tool for managing academic records.  
+  <br>
   <a href="https://github.com/Fuad-Khan/calculator">➗ **Interactive Calculator**</a> — A fully functional calculator app with advanced operations.  
 </p>
 
