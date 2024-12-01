@@ -83,13 +83,13 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
   </a>
   <a href="https://orange.biolab.si/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.bigml.com/static/img/bigml.png" alt="Orange ML" width="40" height="40"/> 
+    <img src="https://orangedatamining.com/_next/static/media/logo-orange.faff1861.svg" alt="Orange ML" width="40" height="40"/> 
   </a>
   <a href="https://bigml.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://bigml.com/static/img/favicon/favicon-96x96.png" alt="BigML" width="40" height="40"/> 
+    <img src="https://static.bigml.com/static/img/bigml.png" alt="BigML" width="40" height="40"/> 
   </a>
   <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/SPSS_Logo.png" alt="SPSS" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="SPSS" width="40" height="40"/> 
   </a>
 </p>
 
