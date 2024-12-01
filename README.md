@@ -71,14 +71,7 @@
     - Customizable shopping cart  
     - Secure checkout system  
     - Admin dashboard for product and order management  
-
-- **[To-Do List Application](https://github.com/Fuad-Khan/to-do-list-project)**  
-  A smart to-do app to organize tasks, set reminders, and manage activities in categorized folders.  
-  - **Tech Stack**: HTML, CSS, JavaScript, PHP  
-  - **Features**:  
-    - Date, time, and folder-wise task management  
-    - Notification and reminder system  
-    - User-friendly drag-and-drop interface  
+ 
 
 #### 📁 Other Notable Projects  
 <p align="center">
