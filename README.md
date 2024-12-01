@@ -18,7 +18,7 @@
 - 🎓 **Third-year Software Engineering student at Daffodil International University.**  
 - 🔭 **Currently working on exciting projects to solve real-world problems.**  
 - 🌱 **Learning and exploring modern web development trends.**  
-- 💬 **Ask me about Java, Python, C++, and software development!**  
+- 💬 **Ask me about Java, Python, JavaScript, PHP, and software development!**  
 - 📫 **How to reach me:** [mk_fuad@yahoo.com](mailto:mk_fuad@yahoo.com)  
 
 ---
@@ -36,6 +36,7 @@
 ---
 
 ### 🛠️ Languages and Tools  
+#### Programming Languages  
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -52,6 +53,44 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+</p>
+
+#### Frameworks & Libraries  
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+</p>
+
+#### Software & Tools  
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
+  </a>
+  <a href="https://orange.biolab.si/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Orange3_logo.png" alt="Orange ML" width="40" height="40"/> 
+  </a>
+  <a href="https://bigml.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/BigML_Logo.png" alt="BigML" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/SPSS_Logo.png" alt="SPSS" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -72,4 +111,4 @@
 
 ---
 
-Let me know if you'd like any further tweaks or customizations!
+
