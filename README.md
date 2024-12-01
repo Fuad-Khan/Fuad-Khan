@@ -62,11 +62,36 @@
 ---
 
 ### 🌈 Projects Portfolio  
+
 #### 🚧 Featured Projects  
-- **Online Super Shop**: An e-commerce platform for groceries and everyday items.  
-  [Explore Project ➡️](https://github.com/YourRepoLink)  
-- **To-Do List**: Organize your daily tasks with folders, reminders, and timelines.  
-  [Explore Project ➡️](https://github.com/YourRepoLink)  
+- **[Online Super Shop](https://github.com/Fuad-Khan/Online-Super-Shop-Website)**  
+  A dynamic e-commerce platform for groceries and daily necessities with user-friendly navigation.  
+  - **Tech Stack**: HTML, CSS, JavaScript, PHP  
+  - **Features**:  
+    - Customizable shopping cart  
+    - Secure checkout system  
+    - Admin dashboard for product and order management  
+
+- **[To-Do List Application](https://github.com/Fuad-Khan/to-do-list-project)**  
+  A smart to-do app to organize tasks, set reminders, and manage activities in categorized folders.  
+  - **Tech Stack**: HTML, CSS, JavaScript, PHP  
+  - **Features**:  
+    - Date, time, and folder-wise task management  
+    - Notification and reminder system  
+    - User-friendly drag-and-drop interface  
+
+#### 📁 Other Notable Projects  
+<p align="center">
+  <a href="https://github.com/Fuad-Khan/portfolio-website">🖥️ **Portfolio Website**</a> — A sleek, personal website showcasing skills and achievements.  
+  <a href="https://github.com/Fuad-Khan/student-management-system">🎓 **Student Management System**</a> — A web-based tool for managing academic records.  
+  <a href="https://github.com/Fuad-Khan/calculator">➗ **Interactive Calculator**</a> — A fully functional calculator app with advanced operations.  
+</p>
+
+---
+
+### 🔭 Want to Collaborate?  
+I'm open to collaborating on open-source projects! Feel free to check out my repositories and connect with me.  
+
 
 ---
 
