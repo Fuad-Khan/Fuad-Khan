@@ -53,14 +53,14 @@ A **modern ticket booking platform** for seamless reservations & management.
 ✅ Real-time seat availability tracking  
 ✅ Online payment gateway integration  
 ✅ Admin panel for ticket & booking management  
-🚀 **Live Demo:** [ticket-booking.example.com](#)
+
 
 ### 🛒 [Online Super Shop](https://github.com/Fuad-Khan/Online-Super-Shop-Website)  
 A **feature-rich e-commerce platform** for groceries & daily needs.  
 ✅ Customizable shopping cart & secure checkout  
 ✅ Product search & filtering for a smooth user experience  
 ✅ Admin dashboard for order & inventory management  
-🚀 **Live Demo:** [super-shop.example.com](#)
+
 
 ---
 
