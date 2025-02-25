@@ -10,29 +10,18 @@
 
 ---
 
-### 🌟 About Me  
+## 🌟 About Me  
 - 🎓 **Third-year Software Engineering student at Daffodil International University.**  
-- 🔭 **Currently working on exciting projects to solve real-world problems.**  
-- 🌱 **Learning and exploring modern web development trends.**  
-- 💬 **Ask me about Java, Python, JavaScript, PHP, and software development!**  
+- 🔭 **Building innovative projects to solve real-world problems.**  
+- 🌱 **Exploring modern web technologies & backend development.**  
+- 💬 **Ask me about Java, Python, JavaScript, PHP, and web development!**  
 - 📫 **Reach me:** [mk_fuad@yahoo.com](mailto:mk_fuad@yahoo.com)  
 
 ---
 
-### 🔗 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/fuad-khan-a2a821257" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://fb.com/mk.fuad.184" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-%230e76a8?style=for-the-badge&logo=facebook" alt="Facebook Badge" />
-  </a>
-</p>
+## 🛠️ Tech Stack  
 
----
-
-### 🛠️ Languages and Tools  
-#### 🖥️ Programming Languages  
+#### 💻 Programming Languages  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -49,56 +38,63 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
 </p>
 
-
-#### ⚙️ Software & Tools  
+#### ⚙️ Tools & Databases  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/> 
   <img src="https://orangedatamining.com/_next/static/media/logo-orange.faff1861.svg" alt="Orange ML" width="50" height="50"/> 
   <img src="https://static.bigml.com/static/img/bigml.png" alt="BigML" width="50" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="SPSS" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
 </p>
 
 ---
 
+## 🔥 Projects Portfolio  
 
-### 🌈 Projects Portfolio  
+### 🚀 Featured Projects  
+#### 🎟 **[Ticket Booking System](https://github.com/Fuad-Khan/Ticket-Booking-System)**  
+A **fully functional ticket booking platform** designed for hassle-free reservations and management.  
+🔹 **Tech Stack:** Laravel, PHP, MySQL, Bootstrap  
+🔹 **Features:**  
+✅ Secure user authentication & role-based access  
+✅ Real-time seat availability checking  
+✅ Online payment gateway integration  
+✅ Admin panel for ticket & booking management  
 
-#### 🚧 Featured Projects  
-- **[Online Super Shop](https://github.com/Fuad-Khan/Online-Super-Shop-Website)**  
-  A dynamic e-commerce platform for groceries and daily necessities with user-friendly navigation.  
-  - **Tech Stack**: HTML, CSS, JavaScript, PHP  
-  - **Features**:  
-    - Customizable shopping cart  
-    - Secure checkout system  
+#### 🛒 **[Online Super Shop](https://github.com/Fuad-Khan/Online-Super-Shop-Website)**  
+A dynamic e-commerce platform for groceries and daily necessities.  
+🔹 **Tech Stack:** HTML, CSS, JavaScript, PHP  
+🔹 **Features:**  
+✅ Customizable shopping cart  
+✅ Secure checkout system  
+✅ Admin dashboard for order management  
 
-- **[Ticket Booking System](https://github.com/Fuad-Khan/Ticket-Booking-System)**  
-  A web-based ticket booking system for easy reservation and management of tickets.  
-  - **Tech Stack**: PHP, MySQL, Bootstrap  
-  - **Features**:  
-    - User authentication & role-based access  
-    - Real-time ticket availability checking  
-    - Payment gateway integration  
-    - Admin panel for managing bookings 
- 
+---
 
-#### 📁 Other Notable Projects  
+### 📁 Other Notable Projects  
 <p align="center">
-  <a href="https://github.com/Fuad-Khan/My-Portfolio">🖥️ Portfolio Website</a> — A sleek, personal website showcasing skills and achievements.  
+  <a href="https://github.com/Fuad-Khan/My-Portfolio">🖥️ **Portfolio Website**</a> — A sleek, personal website showcasing skills and achievements.  
   <br>
-  <a href="https://github.com/Fuad-Khan/Automated-Resume-Generator-with-Custom-Templates">📄 Automated Resume Generator</a> — Create professional resumes with customizable templates.
+  <a href="https://github.com/Fuad-Khan/Automated-Resume-Generator-with-Custom-Templates">📄 **Automated Resume Generator**</a> — Create professional resumes with customizable templates.
   <br>
-  <a href="https://github.com/Fuad-Khan/Canculator">➗ Interactive Calculator</a> — A fully functional calculator app with advanced operations.  
+  <a href="https://github.com/Fuad-Khan/Canculator">➗ **Interactive Calculator**</a> — A fully functional calculator app with advanced operations.  
 </p>
 
 ---
 
-### 🔭 Want to Collaborate?  
-I'm open to collaborating on open-source projects! Feel free to check out my repositories and connect with me.  
-
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/fuad-khan-a2a821257" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://fb.com/mk.fuad.184" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-%230e76a8?style=for-the-badge&logo=facebook" alt="Facebook Badge" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-khan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -111,5 +107,10 @@ I'm open to collaborating on open-source projects! Feel free to check out my rep
 
 ---
 
-### ✨ Fun Fact  
-_"Coding is like solving a puzzle, one logic at a time."_  
+## 🔭 Want to Collaborate?  
+I'm open to **collaborations on open-source projects** and **exciting new opportunities**! Feel free to check out my repositories and reach out.  
+
+---
+
+## ✨ Fun Fact  
+_"Coding is like solving a puzzle, one logic at a time."_ 🧩  
