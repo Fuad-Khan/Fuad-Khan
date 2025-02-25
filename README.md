@@ -1,4 +1,4 @@
-![Programming Header](https://github.com/Fuad-Khan/Fuad-Khan/blob/main/programming-header.webp)
+![Programming Header](https://i.imgur.com/your-header-image.png)
 
 <h1 align="center" style="color: #f72585;">Hi 👋, I'm Fuad Khan</h1>
 
@@ -11,74 +11,63 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Third-year Software Engineering student at Daffodil International University.**  
-- 🔭 **Building innovative projects to solve real-world problems.**  
-- 🌱 **Exploring modern web technologies & backend development.**  
-- 💬 **Ask me about Java, Python, JavaScript, PHP, and web development!**  
+- 🎓 **Fourth-year Software Engineering student at Daffodil International University.**  
+- 🔭 **Passionate about solving real-world problems with technology.**  
+- 🌱 **Currently diving deep into backend development & modern web frameworks.**  
+- 💬 **Ask me about Java, Python, JavaScript, PHP, and full-stack development!**  
 - 📫 **Reach me:** [mk_fuad@yahoo.com](mailto:mk_fuad@yahoo.com)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-#### 💻 Programming Languages  
+### 💻 Programming Languages  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 </p>
 
-#### 🚀 Frameworks & Libraries  
+### 🚀 Frameworks & Libraries  
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
 </p>
 
-#### ⚙️ Tools & Databases  
+### ⚙️ Tools & Databases  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/> 
-  <img src="https://orangedatamining.com/_next/static/media/logo-orange.faff1861.svg" alt="Orange ML" width="50" height="50"/> 
-  <img src="https://static.bigml.com/static/img/bigml.png" alt="BigML" width="50" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="SPSS" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
 </p>
 
 ---
 
-## 🔥 Projects Portfolio  
+## 🔥 Featured Projects  
 
-### 🚀 Featured Projects  
-#### 🎟 **[Ticket Booking System](https://github.com/Fuad-Khan/Ticket-Booking-System)**  
-A **fully functional ticket booking platform** designed for hassle-free reservations and management.  
-🔹 **Tech Stack:** Laravel, PHP, MySQL, Bootstrap  
-🔹 **Features:**  
+### 🎟 [Ticket Booking System](https://github.com/Fuad-Khan/Ticket-Booking-System)  
+A **modern ticket booking platform** for seamless reservations & management.  
 ✅ Secure user authentication & role-based access  
-✅ Real-time seat availability checking  
+✅ Real-time seat availability tracking  
 ✅ Online payment gateway integration  
 ✅ Admin panel for ticket & booking management  
+🚀 **Live Demo:** [ticket-booking.example.com](#)
 
-#### 🛒 **[Online Super Shop](https://github.com/Fuad-Khan/Online-Super-Shop-Website)**  
-A dynamic e-commerce platform for groceries and daily necessities.  
-🔹 **Tech Stack:** HTML, CSS, JavaScript, PHP  
-🔹 **Features:**  
-✅ Customizable shopping cart  
-✅ Secure checkout system  
-✅ Admin dashboard for order management  
+### 🛒 [Online Super Shop](https://github.com/Fuad-Khan/Online-Super-Shop-Website)  
+A **feature-rich e-commerce platform** for groceries & daily needs.  
+✅ Customizable shopping cart & secure checkout  
+✅ Product search & filtering for a smooth user experience  
+✅ Admin dashboard for order & inventory management  
+🚀 **Live Demo:** [super-shop.example.com](#)
 
 ---
 
-### 📁 Other Notable Projects  
-<p align="center">
-  <a href="https://github.com/Fuad-Khan/My-Portfolio">🖥️ **Portfolio Website**</a> — A sleek, personal website showcasing skills and achievements.  
-  <br>
-  <a href="https://github.com/Fuad-Khan/Automated-Resume-Generator-with-Custom-Templates">📄 **Automated Resume Generator**</a> — Create professional resumes with customizable templates.
-  <br>
-  <a href="https://github.com/Fuad-Khan/Canculator">➗ **Interactive Calculator**</a> — A fully functional calculator app with advanced operations.  
-</p>
+## 📁 Other Notable Projects  
+- 🖥️ **[Portfolio Website](https://github.com/Fuad-Khan/My-Portfolio)** – A sleek personal website showcasing my work & skills.  
+- 📄 **[Automated Resume Generator](https://github.com/Fuad-Khan/Automated-Resume-Generator-with-Custom-Templates)** – Create stunning resumes with custom templates.  
+- ➗ **[Interactive Calculator](https://github.com/Fuad-Khan/Canculator)** – A fully functional calculator app with advanced operations.  
 
 ---
 
@@ -97,11 +86,9 @@ A dynamic e-commerce platform for groceries and daily necessities.
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad-khan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=fuad-khan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuad-khan&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
@@ -113,4 +100,4 @@ I'm open to **collaborations on open-source projects** and **exciting new opport
 ---
 
 ## ✨ Fun Fact  
-_"Coding is like solving a puzzle, one logic at a time."_ 🧩  
+> "I don’t just write code; I create solutions that make life easier! 🚀"
