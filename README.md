@@ -45,7 +45,7 @@
 
 #### 🚀 Frameworks & Libraries  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
 </p>
 
@@ -74,11 +74,11 @@
 
 #### 📁 Other Notable Projects  
 <p align="center">
-  <a href="https://github.com/Fuad-Khan/My-Portfolio">🖥️ **Portfolio Website**</a> — A sleek, personal website showcasing skills and achievements.  
+  <a href="https://github.com/Fuad-Khan/My-Portfolio">🖥️ Portfolio Website</a> — A sleek, personal website showcasing skills and achievements.  
   <br>
-  <a href="https://github.com/Fuad-Khan/Automated-Resume-Generator-with-Custom-Templates">📄 **Automated Resume Generator**</a> — Create professional resumes with customizable templates.
+  <a href="https://github.com/Fuad-Khan/Automated-Resume-Generator-with-Custom-Templates">📄 Automated Resume Generator</a> — Create professional resumes with customizable templates.
   <br>
-  <a href="https://github.com/Fuad-Khan/Canculator">➗ **Interactive Calculator**</a> — A fully functional calculator app with advanced operations.  
+  <a href="https://github.com/Fuad-Khan/Canculator">➗ Interactive Calculator</a> — A fully functional calculator app with advanced operations.  
 </p>
 
 ---
