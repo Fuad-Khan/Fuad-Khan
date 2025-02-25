@@ -60,6 +60,7 @@
 
 ---
 
+
 ### 🌈 Projects Portfolio  
 
 #### 🚧 Featured Projects  
@@ -69,7 +70,15 @@
   - **Features**:  
     - Customizable shopping cart  
     - Secure checkout system  
-    - Admin dashboard for product and order management  
+
+- **[Ticket Booking System](https://github.com/Fuad-Khan/Ticket-Booking-System)**  
+  A web-based ticket booking system for easy reservation and management of tickets.  
+  - **Tech Stack**: PHP, MySQL, Bootstrap  
+  - **Features**:  
+    - User authentication & role-based access  
+    - Real-time ticket availability checking  
+    - Payment gateway integration  
+    - Admin panel for managing bookings 
  
 
 #### 📁 Other Notable Projects  
