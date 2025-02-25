@@ -1,4 +1,4 @@
-![Programming Header](https://imgur.com/wAwya3k)
+![Programming Header](https://i.imgur.com/wAwya3k.jpeg)
 
 <h1 align="center" style="color: #f72585;">Hi 👋, I'm Fuad Khan</h1>
 
