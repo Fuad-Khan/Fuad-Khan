@@ -59,7 +59,6 @@ A **modern ticket booking platform** for seamless reservations & management.
 A **feature-rich e-commerce platform** for groceries & daily needs.  
 ✅ Customizable shopping cart & secure checkout  
 ✅ Product search & filtering for a smooth user experience  
-✅ Admin dashboard for order & inventory management  
 
 
 ---
