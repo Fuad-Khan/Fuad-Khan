@@ -11,7 +11,6 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Fourth-year Software Engineering student at Daffodil International University.**  
 - 🎯 **Motivated and detail-oriented Software Engineer with hands-on experience in full-stack development & research.**  
 - 🔭 **Passionate about backend engineering, AI, and solving real-world problems.**  
 - 🌱 **Currently learning modern backend frameworks, AI tools & data analysis.**  
